@@ -1,1 +1,1 @@
-print('omagad zhopa popa u paytoni aaaa')
+print('aaaa ya na githabii')
