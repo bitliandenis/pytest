@@ -1,0 +1,1 @@
+print('omagad zhopa popa u paytoni aaaa')
